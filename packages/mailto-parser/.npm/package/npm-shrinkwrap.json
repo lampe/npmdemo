@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mailto-parser": {
+      "version": "1.0.0"
+    }
+  }
+}
